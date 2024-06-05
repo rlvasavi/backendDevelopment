@@ -8,7 +8,7 @@ This project analyzes urine strip images to identify 10 specific colors using im
 
 <u>It contains the 10 colors with the # RGB values</u>
 
-# Framework:Django
+## Framework:Django
 
 # Landing page (Before uploading the image) :
 ![image](https://github.com/rlvasavi/backendDevelopment/assets/109660775/b78e0b4a-c0e4-421e-a502-097b0735d441)
@@ -19,3 +19,7 @@ It contain the 10 colors with the # RBG values
 ![image](https://github.com/rlvasavi/backendDevelopment/assets/109660775/826d5bc1-0b7f-4758-a3d3-5bf36ff9f9cb)
 
 
+## To run the project:
+```bash
+python manage.py runserver
+```
